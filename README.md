@@ -1,12 +1,12 @@
 # Chess
 Repository for decentralized Chess games.
 
-# Resources
+# Web 3 Software
 [Solana Foundation GitHub](https://github.com/solana-labs)
 
 [Solana Labs GitHub](https://github.com/solana-labs)
 
-# Software
+# Applications Software
 [react](https://reactjs.org/docs/create-a-new-react-app.html)
 
 [npm](https://docs.npmjs.com/cli/v8/commands/npm-install)
