@@ -15,3 +15,12 @@ Repository for decentralized Chess games.
 [react-chessboard](https://www.npmjs.com/package/react-chessboard)
 
 [chessboardjsx](https://github.com/willb335/chessboardjsx)
+
+### Mathmatics
+
+<img width="284" alt="Screen Shot 2022-09-19 at 5 00 32 PM" src="https://user-images.githubusercontent.com/87402354/191139489-cbfdfb4e-1c9d-46cb-823c-a8777cbf9a22.png">
+
+_Image Source:_ [Wiki](https://en.wikipedia.org/wiki/Chess#Growth)
+
+
+
