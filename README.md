@@ -2,6 +2,8 @@
 Repository for decentralized Chess games.
 
 ### Web 3 Software
+[Solana Web3 Docs](https://docs.solana.com/developing/clients/javascript-api)
+
 [Solana Foundation GitHub](https://github.com/solana-labs)
 
 [Solana Labs GitHub](https://github.com/solana-labs)
